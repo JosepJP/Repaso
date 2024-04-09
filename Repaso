@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Repaso</title>
+</head>
+<body>
+<p><h2>Vocabulario CMD:</h2>
+    <h4>DIR:</h4>
+    <h6>Muestra todo el contenido de un directorio</h6>
+    <h4> TREE</h4>
+    <H6> Muestra el árbol de carpetas de la carpeta que indiques</H6>
+    <H4>FIND</H4>
+    <h6>Busca una cadena de texto en uno o mas archivos</h6>
+    <h4>MD:</h4>
+    <h6>Crea una carpeta o directorio</h6>
+    <h4>MOVE</h4>
+    <h6>Te permite mover un archivo de un directorio a otro</h6>
 
+</p>
+<p> 
+
+
+
+
+
+</p>
+
+
+<img src="rojo.png" />
+
+</body>
+</html>
