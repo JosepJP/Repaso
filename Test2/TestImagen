@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>DIR</h1>
+<p>Muestra todo el contenido de un directorio</p>
+
+<h1>TREE</h1>
+<p>Muestra el árbol de carpetas de la carpeta que le indiques</p>
+
+<h1>FIND</h1>
+<p>Busca una cadena de texto en uno o mas archivos</p>
+
+<img src="rojo.png" />
+
+</body>
+</html>
