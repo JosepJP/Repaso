@@ -9,27 +9,22 @@
         </div>
         <Div style="display: flex; justify-content: center; width: 100%;">
             <div style=" border: 5px solid rgb(79, 161, 134); border-radius: 60px; width: 50%; padding: 30px; background-color:aquamarine;">
-                <Div>
-                    
+                <Div> <!--Vocabulario CMD-->
+                    <h2 style="text-align: center;">Vocabulario CMD</h2>
                     <Div>
-                        <p>asdasdasd</p>
+                        <p><Span><b>Dir:</b></Span> Muestra todo el contenido de un directorio.</p>
+                        <p><Span><b>Mkdir 'NuevoDirectorio':</b></Span> Crea un directorio llamado 'NuevoDirectorio'.</p>
+                        <p><Span><b>Rmdir 'DirectorioAEliminar':</b></Span> Elimina el directorio 'DirectorioAEliminar'.</p>
+                        <p><Span><b>Move 'archivo.txt NuevaUbicación':</b></Span> Mueve el archivo llamado 'archivo.txt' a 'NuevaUbicación'.</p>
+                        <p><Span><b>Cd 'desktop':</b></Span> Cambia al directorio 'Desktop'.</p>
+                        <p><Span><b>Del 'archivo.txt':</b></Span> Elimina el archivo llamado 'archivo.txt'.</p>
+                        <p><Span><b>Copy 'archivo.txt CarpetaDestino':</b></Span> Copia el archivo llamado 'archivo.txt' a la carpeta llamada 'CarpetaDestino'.</p>
+                        <p><Span><b>Md:</b></Span> Crea una carpeta o directorio.</p>
+                        <p><Span><b>Cls:</b></Span> Limpia la pantalla de la consola.</p>
+                        <p><Span><b>Exit:</b></Span> Cierra la ventana del CMD.</p>
+                        <p><Span><b>Find:</b></Span> Busca una cadena de texto en uno o mas archivos.</p>
                     </Div>
                 </Div>
-        
-
-            <p><!--Vocabulario CMD-->
-                <h2 style="text-align: center;">Vocabulario CMD</h2>
-                <h4>DIR:</h4>
-                <h6>Muestra todo el contenido de un directorio</h6>
-                <h4> TREE</h4>
-                <H6> Muestra el árbol de carpetas de la carpeta que indiques</H6>
-                <H4>FIND</H4>
-                <h6>Busca una cadena de texto en uno o mas archivos</h6>
-                <h4>MD:</h4>
-                <h6>Crea una carpeta o directorio</h6>
-                <h4>MOVE</h4>
-                <h6>Te permite mover un archivo de un directorio a otro</h6>
-            </p>
             <p><!--Vocabulario HTML-->
                 <h2 style="text-align: center;">Vocabulario HTML</h2>
                 <H4>!DOCTYPE HTML:</H4>
@@ -133,18 +128,21 @@
                 <h6>Externo: mediante el uso de un elemento "link" para vincular a un archivo css externo.</h6>
             </p>
             <p> <!--Estructura HTML-->
-            <!--   
-                <H2>Estructura HTML</H2>
-            <!DOCTYPE html>
-            <html>
-            <body>
-    
-            <h1></h1>
-    
-            <p></p>
-    
-            </body>
-            </html>-->
+                <pre>
+                    <code>
+                        &lt;!DOCTYPE html&gt;
+                        &lt;html lang="es"&gt;
+                        &lt;head&gt;
+                            &lt;meta charset="UTF-8"&gt;
+                            &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+                            &lt;title&gt;Título de la página&lt;/title&gt;
+                        &lt;/head&gt;
+                        &lt;body&gt;
+                            &lt;!-- Contenido de la página --&gt;
+                        &lt;/body&gt;
+                        &lt;/html&gt;
+                    </code>
+                </pre>
 
 
             <p>Favicon archivo 64x64/100x100 icono web</p>
