@@ -39,8 +39,104 @@
 
                     </div>
                 </Div>
-            <p><!--Atributos HTML-->
-                <h2 style="text-align: center;">Atributos HTML</h2>
+                <Div> <!--Atributos HTML-->
+                    <h2 style="text-align: center;">Atributos HTML</h2>
+                    <div>
+                        <p><Span><b>Style:</b></Span> Agrega estilos a un elemento, como color, fuente, Tamaño, etc.</p>
+                        <div>
+                            <style>
+                                table, th, td {
+                                  border:1px solid black;
+                                  border-collapse: collapse;
+                                  background-color: whitesmoke;
+                                }
+
+                            </style>
+                                <div>
+                                    <table> <!--Tabla Ejemplos-->
+                                        <tr>
+                                            <th style="background-color: rgb(224, 75, 75);">Styles</th>
+                                            <th style="background-color: rgb(224, 75, 75);">Codigo</th>
+                                            <th style="background-color: rgb(224, 75, 75);">Ejemplos</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Cambiar de color de texto</td>
+                                            <td>style="color: red;</td>
+                                            <td style="color: red;">Ejemplo</td>
+                                        
+                                        </tr>
+                                        <tr>
+                                            <td>Aplicar estilos de fondo</td>
+                                            <td>style="background-color: yellow;</td>
+                                            <td style="background-color: yellow;">Ejemplo</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cambiar el tamaño del texto</td>
+                                            <td>style="font-size: 20px;</td>
+                                            <td style="font-size: 20px;">Ejemplo</td>
+                                        
+                                        </tr>
+                                        <tr>
+                                            <td>Aplicar estilos de fuente</td>
+                                            <td>style="font-family: Arial, sans-serif;</td>
+                                            <td style="font-family: Arial, Helvetica, sans-serif;">Ejemplo</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cambiar el grosor de la fuente</td>
+                                            <td>style="font-weight: bold;</td>
+                                            <td style="font-weight: bold;">Ejemplo</td>    
+                                        </tr>
+                                        <tr>
+                                            <td>Aplicar estilos de cursiva</td>
+                                            <td>style="font-style: italic;</td>
+                                            <td style=" font-style: italic;">Ejemplo</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Alinear el texto</td>
+                                            <td>style="text-align: center;</td>
+                                            <td style="text-align: center;">Ejemplo</td>    
+                                        </tr>
+                                        <tr>
+                                            <td>Agregar bordes</td>
+                                            <td>style="border: 5px solid black;</td>
+                                            <td style=" border: 5px solid black;">Ejemplo</td>    
+                                        </tr>
+                                        <tr>
+                                            <td>Agregar margen</td>
+                                            <td>style="margin: 10px;</td>
+                                            <td style="margin: 10px;">Ejemplo</td>    
+                                        </tr>
+                                        <tr>
+                                            <td>Agregar relleno</td>
+                                            <td>style="padding: 10px;</td>
+                                            <td style="padding:  10px">Ejemplo</td>    
+                                        </tr>
+                                        <tr>
+                                            <td>Aplicar estilos de borde redondeado</td>
+                                            <td>style="border-radius: 5px;</td>
+                                            <td style="border-radius: 5px;">Ejemplo</td>    
+                                        </tr>
+                                        <tr>
+                                            <td>Cambiar el tamaño de la imagen</td>
+                                            <td>style="width: 100px; height: 100px;</td>
+                                            <td style="width: 100px; height: 100px;">Ejemplo</td>    
+                                        </tr>
+
+
+
+
+
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </Div>
+
+
+
+
+
                 <H4>A:</H4>
                 <H6>Define los enlaces HTML.</H6>
                 <H4>HREF:</H4>
@@ -58,8 +154,9 @@
                     <H6>Especifica anchura y altura de la imagen.</H6>
                     <h4>ALT:</h4>
                     <h6>Añade texto alternativo para una imagen.</h6>
-                    <h4>STYLE:</h4>
-                    <h6>Agrega estilos a un elemento, como color, fuente, Tamaño, etc.</h6>
+
+
+
                     <h4>LANG:</h4>
                     <H6>Siempre debe ser incluido dentro de HTML. Utilizado para declarar idioma de la pagina, destinado a motores de busqueda y navegadores.</H6>
                     <h4>TITLE:</h4>
