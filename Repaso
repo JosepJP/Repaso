@@ -25,23 +25,20 @@
                         <p><Span><b>Find:</b></Span> Busca una cadena de texto en uno o mas archivos.</p>
                     </Div>
                 </Div>
-            <p><!--Vocabulario HTML-->
-                <h2 style="text-align: center;">Vocabulario HTML</h2>
-                <H4>!DOCTYPE HTML:</H4>
-                <H6>Define que este documento es HTML5.</H6>
-                <H4>HTML:</H4>
-                <H6>Elemento raiz de una página HTML.</H6>
-                <H4>TITLE:</H4>
-                <H6>Titulo de la página HTML que aparece en la URL.</H6>
-                <H4>BODY:</H4>
-                <H6>Define el cuerpo del documento y contenido visible como encabezados, párrafos, imágenes, hipervínculos, tablas, listas, etc.</H6>
-                <H4>H1-H6:</H4>
-                <H6>Tamaños de encabezados.</H6>
-                <H4>P</H4>
-                <H6>Escribir párrafos.</H6>
-                <H4>BR</H4>
-                <H6>Elemento vacío usado para saltos de línea y distinción de grupos dentro del código.</H6>
-            </p>
+                <Div> <!--Vocabulario HTML-->
+                    <h2 style="text-align: center;">Vocabulario HTML</h2>
+                    <div>
+                        <p><Span><b>!Doctype 'html':</b></Span> Define que este documento es html5.</p>
+                        <p><Span><b>Html:</b></Span> Elemento raiz de una página <i>HTML</i>.</p>
+                        <p><Span><b>Title:</b></Span> Título de la página <i>HTML</i> que aparece en la <i>URL</i>.</p>
+                        <p><Span><b>Body:</b></Span> Define el cuerpo del documento y contenido visible como encabezados, párrafos, imágenes, hipervínculos, tablas, listas, etc.</p>
+                        <p><Span><b>H1-h6:</b></Span> Tamaño de encabezados.</p>
+                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
+                        <p><Span><b>Br:</b></Span> Elemento vacío usado para saltos de línea y distinción de grupos dentro del código.</p>
+
+
+                    </div>
+                </Div>
             <p><!--Atributos HTML-->
                 <h2 style="text-align: center;">Atributos HTML</h2>
                 <H4>A:</H4>
