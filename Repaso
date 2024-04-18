@@ -30,6 +30,7 @@
                     <div>
                         <p><Span><b>!Doctype 'html':</b></Span> Define que este documento es html5.</p>
                         <p><Span><b>Html:</b></Span> Elemento raiz de una página <i>HTML</i>.</p>
+                        <p><Span><b>Lang:</b></Span> Siempre debe ser incluido dentro de <i>HTML</i>. Utilizado para declarar idioma de la pagina, destinado a motores de busqueda y navegadores.</p>
                         <p><Span><b>Title:</b></Span> Título de la página <i>HTML</i> que aparece en la <i>URL</i>.</p>
                         <p><Span><b>Body:</b></Span> Define el cuerpo del documento y contenido visible como encabezados, párrafos, imágenes, hipervínculos, tablas, listas, etc.</p>
                         <p><Span><b>H1-h6:</b></Span> Tamaño de encabezados.</p>
@@ -134,43 +135,24 @@
                         <p><Span><b>Img:</b></Span> Define imagenes en html.</p>
                         <p><Span><b>Src:</b></Span> Usado para especificar la ruta de la imagen y ser usada.<br> <br> Hay dos formas de especificar la url: <strong>Absoluta</strong> o <strong> relativa</strong>.</p>
                         <p><Span><b>Url Absoluta:</b></Span> Enlace a una imagen externa alojada en otro sitio. <br><b>Url relativa:</b>Enlace a una imagen alojada en el sitio web.</p>
-                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
-                        
+                        <p style="color: tomato;"><Span><b>Consejo:</b></Span> Casi siempre es mejor utilizar URL relativas. No se romperán si cambias de dominio.</p>
+                        <p><Span><b>Width/Height:</b></Span> Especifica anchura y altura de la imagen.</p>
+                        <p><Span><b>Alt:</b></Span> Añade texto alternativo para una imagen.</p>
+                        <p><Span><b>Title:</b></Span> Usado para dar información adicional sobre elementos.</p>
+                        <p style="color: tomato;"><Span><b>Consejo:</b></Span> Utilizar atributos en minúsculas.</p>
+                        <p><Span><b>Font-size</b></Span> Usado para especificar el tamaño de cualquier encabezado. <br><b>Font-family:</b>Define la fuente que se utilizara para los elementos.</p>
+                        <p><Span><b>Hr:</b></Span>Utilizado para definir una ruptura temática y mostrado como linea horizontal.</p>
+                        <p><Span><b>Pre:</b></Span>El texto dentro de PRE conserva tanto los espacios como los saltos de línea.</p>
+                        <p><Span><b>BACKGROUND-COLOR:</b></Span>Aplica un color de fondo al texto o página.</p>
+                        <p><Span><b>TEXT-ALIGN:</b></Span>Alinea el texto a la izquierda, centro o derecha. (left, center, right).</p>
 
                         </div>
                     
                 </Div>
-                    <h4>SRC:</h4>
-                    <h6>Usado para especificar la ruta de la imagen y ser usada.<br>
-                    Hay dos formas de especificar la URL: Absoluta o relativa.</h6>
-                    <H4>URL Absoluta/Relativa:</H4>
-                    <H6>Enlace a una imagen externa alojada en otro sitio web.<br>
-                    Enlace a una imagen alojada en el sitio web.</H6>
-                    <H6 style="color: tomato;">Consejo: Casi siempre es mejor utilizar URL relativas. No se romperán si cambias de dominio.</H6>
-                    <H4>WIDTH/HEIGHT:</H4>
-                    <H6>Especifica anchura y altura de la imagen.</H6>
-                    <h4>ALT:</h4>
-                    <h6>Añade texto alternativo para una imagen.</h6>
-                
-
-
-                    <h4>LANG:</h4>
-                    <H6>Siempre debe ser incluido dentro de HTML. Utilizado para declarar idioma de la pagina, destinado a motores de busqueda y navegadores.</H6>
-                    <h4>TITLE:</h4>
-                    <H6>Usado para dar información adicional sobre elementos.</H6>
-                    <H6 style="color: tomato;">Consejo: Utilizar atributos en minúsculas.</H6>
-                    <H4>FONT-SIZE/FONT-FAMILY:</H4>
-                    <H6>Usado para especificar el tamaño de cualquier encabezado. <BR>
-                    Define la fuente que se utilizara para los elementos.
                     </H6>
-                    <h4>HR:</h4>
-                    <h6>Utilizado para definir una ruptura temática y mostrado como linea horizontal.</h6>
-                    <h4>PRE:</h4>
-                    <H6>El texto dentro de PRE conserva tanto los espacios como los saltos de línea.</H6>
-                    <h4>BACKGROUND-COLOR:</h4>
-                    <H6>Aplica un color de fondo al texto o página.</H6>
-                    <h4>TEXT-ALIGN:</h4>
-                    <H6>Define la alineación del texto (Izquierda, centro o derecha).</H6>
+                    
+                    
+                    
                 </p>
                 <p><!--Elementos de formato HTML-->
                 <h2 style="text-align: center;">Elementos de formato HTML</h2>
