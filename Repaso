@@ -143,8 +143,8 @@
                         <p><Span><b>Font-size</b></Span> Usado para especificar el tamaño de cualquier encabezado. <br><b>Font-family:</b>Define la fuente que se utilizara para los elementos.</p>
                         <p><Span><b>Hr:</b></Span>Utilizado para definir una ruptura temática y mostrado como linea horizontal.</p>
                         <p><Span><b>Pre:</b></Span>El texto dentro de PRE conserva tanto los espacios como los saltos de línea.</p>
-                        <p><Span><b>BACKGROUND-COLOR:</b></Span>Aplica un color de fondo al texto o página.</p>
-                        <p><Span><b>TEXT-ALIGN:</b></Span>Alinea el texto a la izquierda, centro o derecha. (left, center, right).</p>
+                        <p><Span><b>Background-color:</b></Span>Aplica un color de fondo al texto o página.</p>
+                        <p><Span><b>Text-align:</b></Span>Alinea el texto a la izquierda, centro o derecha. (left, center, right).</p>
 
                         </div>
                     
