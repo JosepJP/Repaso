@@ -131,23 +131,15 @@
                             </div>
                         <p><Span><b>A:</b></Span> Define los enlaces HTML</p>
                         <p><Span><b>Href:</b></Span> Usando en el atributo "A" para especificar enlaces.</p>
-                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
-                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
-                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
+                        <p><Span><b>Img:</b></Span> Define imagenes en html.</p>
+                        <p><Span><b>Src:</b></Span> Usado para especificar la ruta de la imagen y ser usada.<br> <br> Hay dos formas de especificar la url: <strong>Absoluta</strong> o <strong> relativa</strong>.</p>
+                        <p><Span><b>Url Absoluta:</b></Span> Enlace a una imagen externa alojada en otro sitio. <br><b>Url relativa:</b>Enlace a una imagen alojada en el sitio web.</p>
                         <p><Span><b>P:</b></Span> Escribir párrafos.</p>
                         
 
                         </div>
                     
                 </Div>
-
-
-
-
-
-                    
-                    <H4>IMG:</H4>
-                    <H6>Define imagenes HTML.</H6>
                     <h4>SRC:</h4>
                     <h6>Usado para especificar la ruta de la imagen y ser usada.<br>
                     Hay dos formas de especificar la URL: Absoluta o relativa.</h6>
