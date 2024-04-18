@@ -41,19 +41,24 @@
                 </Div>
                 <Div> <!--Atributos HTML-->
                     <h2 style="text-align: center;">Atributos HTML</h2>
-                        <div>   
-                        <p><Span><b>Style:</b></Span> Agrega estilos a un elemento, como color, fuente, Tamaño, etc.</p>
                         <div>
+                        <p style="text-align: center;"><Span><b>Style:</b></Span> Agrega estilos a un elemento, como color, fuente, Tamaño, etc.</p>
+                            <div> <!--Tabla Ejemplos-->
                             <style>
                                 table, th, td {
-                                  
-                                  border-collapse: collapse;
-                                  background-color: whitesmoke;
+                                    border: 1px solid black;
+                                    border-collapse: collapse;
+                                    background-color: whitesmoke;
+                                }
+                                .Tablacentro {
+                                display: flex;
+                                justify-content: center;
+                                
                                 }
                             </style>
-                        </div>
-                        <div>
-                            <table> <!--Tabla Ejemplos-->
+                        
+                                <div class="Tablacentro">
+                                <table> 
                                 <tr>
                                     <th style="background-color: rgb(224, 75, 75); padding: 10px; border-color: rgb(224, 75, 75);">Styles</th>
                                     <th style="background-color: rgb(224, 75, 75); padding: 10px; border-color: rgb(224, 75, 75);">Codigo</th>
@@ -98,8 +103,8 @@
                                 </tr>
                                 <tr>
                                     <td style="padding: 10px;">Agregar bordes</td>
-                                    <td style="padding: 10px;">style="border: 5px solid black;</td>
-                                    <td style="padding: 10px; border: 5px solid black;">Ejemplo</td>    
+                                    <td style="padding: 10px;">style="border: 2px solid black;</td>
+                                    <td style="padding: 10px; border: 2px solid black;">Ejemplo</td>    
                                 </tr>
                                 <tr>
                                     <td style="padding: 10px;">Agregar margen</td>
@@ -121,19 +126,26 @@
                                     <td style="padding: 10px;">style="width: 100px; height: 100px;</td>
                                     <td style="padding: 10px; width: 100px; height: 100px;">Ejemplo</td>    
                                 </tr>
-                            </table>
+                                </table>
+                                </div>
+                            </div>
+                        <p><Span><b>A:</b></Span> Define los enlaces HTML</p>
+                        <p><Span><b>Href:</b></Span> Usando en el atributo "A" para especificar enlaces.</p>
+                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
+                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
+                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
+                        <p><Span><b>P:</b></Span> Escribir párrafos.</p>
+                        
+
                         </div>
-                        </div>
+                    
                 </Div>
 
 
 
 
 
-                    <H4>A:</H4>
-                    <H6>Define los enlaces HTML.</H6>
-                        <H4>HREF:</H4>
-                    <H6>Atributo usado en "A" para especificar enlaces.</H6>
+                    
                     <H4>IMG:</H4>
                     <H6>Define imagenes HTML.</H6>
                     <h4>SRC:</h4>
