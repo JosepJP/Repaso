@@ -1,0 +1,1 @@
+print(input("Dime un color: ")) 
